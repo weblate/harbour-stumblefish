@@ -6,32 +6,32 @@
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="16"/>
         <source>About</source>
-        <translation type="unfinished"></translation>
+        <translation>Rakenduse teave</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="32"/>
         <source>Geosubmit location report collector for Sailfish OS</source>
-        <translation type="unfinished"></translation>
+        <translation>Geotuvastuse asukohaandmete aruannete koguja Sailfish OS-i jaoks</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="41"/>
         <source>by Andrew Branson</source>
-        <translation type="unfinished"></translation>
+        <translation>arendaja on Andrew Branson</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="50"/>
         <source>Heavily based on NeoStumbler. Thanks to the NeoStumbler project and its contributors.</source>
-        <translation type="unfinished"></translation>
+        <translation>Suures osas põhineb NeoStumbleril. Suur tänu NeoStumbleri projektile ja selle kaasautoritele.</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="80"/>
         <source>The Motorcycle Fish says:</source>
-        <translation type="unfinished"></translation>
+        <translation>Motokala ütleb:</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="91"/>
         <source>&quot;If you&apos;re gonna lead people, you have to have somewhere to go.&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation>„Kui tahad inimestele teed näidata, siis sul peab olema koht, kuhu minna.“</translation>
     </message>
 </context>
 <context>
@@ -39,7 +39,7 @@
     <message>
         <location filename="../qml/cover/CoverPage.qml" line="44"/>
         <source>%1 pending</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 on ootel</translation>
     </message>
 </context>
 <context>
@@ -47,103 +47,103 @@
     <message>
         <location filename="../qml/pages/MainPage.qml" line="40"/>
         <source>Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Seadistused</translation>
     </message>
     <message>
         <location filename="../qml/pages/MainPage.qml" line="44"/>
         <source>Upload pending</source>
-        <translation type="unfinished"></translation>
+        <translation>Üleslaadimine on ootel</translation>
     </message>
     <message>
         <location filename="../qml/pages/MainPage.qml" line="48"/>
         <source>Refresh</source>
-        <translation type="unfinished"></translation>
+        <translation>Laadi uuesti</translation>
     </message>
     <message>
         <location filename="../qml/pages/MainPage.qml" line="63"/>
         <source>Collection</source>
-        <translation type="unfinished"></translation>
+        <translation>Kogumik</translation>
     </message>
     <message>
         <location filename="../qml/pages/MainPage.qml" line="67"/>
         <source>Status</source>
-        <translation type="unfinished"></translation>
+        <translation>Olek</translation>
     </message>
     <message>
         <location filename="../qml/pages/MainPage.qml" line="72"/>
         <source>Location</source>
-        <translation type="unfinished"></translation>
+        <translation>Asukoht</translation>
     </message>
     <message>
         <location filename="../qml/pages/MainPage.qml" line="77"/>
         <location filename="../qml/pages/MainPage.qml" line="151"/>
         <source>Cell</source>
-        <translation type="unfinished"></translation>
+        <translation>Tugijaam</translation>
     </message>
     <message>
         <location filename="../qml/pages/MainPage.qml" line="79"/>
         <source>available</source>
-        <translation type="unfinished"></translation>
+        <translation>saadaval</translation>
     </message>
     <message>
         <location filename="../qml/pages/MainPage.qml" line="80"/>
         <source>unavailable</source>
-        <translation type="unfinished"></translation>
+        <translation>pole saadaval</translation>
     </message>
     <message>
         <location filename="../qml/pages/MainPage.qml" line="84"/>
         <source>Position</source>
-        <translation type="unfinished"></translation>
+        <translation>Asend</translation>
     </message>
     <message>
         <location filename="../qml/pages/MainPage.qml" line="85"/>
         <source>unknown</source>
-        <translation type="unfinished"></translation>
+        <translation>teadmata</translation>
     </message>
     <message>
         <location filename="../qml/pages/MainPage.qml" line="89"/>
         <source>Fix</source>
-        <translation type="unfinished"></translation>
+        <translation>Paranda</translation>
     </message>
     <message>
         <location filename="../qml/pages/MainPage.qml" line="128"/>
         <source>Wi-Fi</source>
-        <translation type="unfinished"></translation>
+        <translation>WiFi</translation>
     </message>
     <message>
         <location filename="../qml/pages/MainPage.qml" line="185"/>
         <source>Reports</source>
-        <translation type="unfinished"></translation>
+        <translation>Aruanded</translation>
     </message>
     <message>
         <location filename="../qml/pages/MainPage.qml" line="189"/>
         <source>Pending</source>
-        <translation type="unfinished"></translation>
+        <translation>Ootel</translation>
     </message>
     <message>
         <location filename="../qml/pages/MainPage.qml" line="193"/>
         <source>Uploaded</source>
-        <translation type="unfinished"></translation>
+        <translation>Üleslaaditud</translation>
     </message>
     <message>
         <location filename="../qml/pages/MainPage.qml" line="197"/>
         <source>Failed</source>
-        <translation type="unfinished"></translation>
+        <translation>Ebaõnnestunud</translation>
     </message>
     <message>
         <location filename="../qml/pages/MainPage.qml" line="201"/>
         <source>Last report</source>
-        <translation type="unfinished"></translation>
+        <translation>Viimane aruanne</translation>
     </message>
     <message>
         <location filename="../qml/pages/MainPage.qml" line="207"/>
         <source>View reports</source>
-        <translation type="unfinished"></translation>
+        <translation>Vaata aruandeid</translation>
     </message>
     <message>
         <location filename="../qml/pages/MainPage.qml" line="213"/>
         <source>View map</source>
-        <translation type="unfinished"></translation>
+        <translation>Vaata kaarti</translation>
     </message>
 </context>
 <context>
@@ -164,37 +164,37 @@
     <message>
         <location filename="../qml/pages/ReportDetailPage.qml" line="190"/>
         <source>Status</source>
-        <translation type="unfinished"></translation>
+        <translation>Olek</translation>
     </message>
     <message>
         <location filename="../qml/pages/ReportDetailPage.qml" line="194"/>
         <source>Time</source>
-        <translation type="unfinished"></translation>
+        <translation>Aeg</translation>
     </message>
     <message>
         <location filename="../qml/pages/ReportDetailPage.qml" line="198"/>
         <source>Position</source>
-        <translation type="unfinished"></translation>
+        <translation>Asukoht</translation>
     </message>
     <message>
         <location filename="../qml/pages/ReportDetailPage.qml" line="202"/>
         <source>Accuracy</source>
-        <translation type="unfinished"></translation>
+        <translation>Täpsus</translation>
     </message>
     <message>
         <location filename="../qml/pages/ReportDetailPage.qml" line="206"/>
         <source>Mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Režiim</translation>
     </message>
     <message>
         <location filename="../qml/pages/ReportDetailPage.qml" line="210"/>
         <source>Endpoint</source>
-        <translation type="unfinished"></translation>
+        <translation>Otspunkt</translation>
     </message>
     <message>
         <location filename="../qml/pages/ReportDetailPage.qml" line="214"/>
         <source>Uploaded</source>
-        <translation type="unfinished"></translation>
+        <translation>Üleslaaditud</translation>
     </message>
 </context>
 <context>
@@ -202,22 +202,22 @@
     <message>
         <location filename="../qml/pages/ReportsPage.qml" line="36"/>
         <source>View map</source>
-        <translation type="unfinished"></translation>
+        <translation>Vaata kaarti</translation>
     </message>
     <message>
         <location filename="../qml/pages/ReportsPage.qml" line="41"/>
         <source>Clear pending</source>
-        <translation type="unfinished"></translation>
+        <translation>Kustutamine on ootel</translation>
     </message>
     <message>
         <location filename="../qml/pages/ReportsPage.qml" line="86"/>
         <source>#%1 %2</source>
-        <translation type="unfinished"></translation>
+        <translation>#%1 %2</translation>
     </message>
     <message>
         <location filename="../qml/pages/ReportsPage.qml" line="106"/>
         <source>No reports to upload</source>
-        <translation type="unfinished"></translation>
+        <translation>Pole ühtegi aruannet, mida laadida üles</translation>
     </message>
 </context>
 <context>
@@ -225,37 +225,37 @@
     <message>
         <location filename="../qml/pages/SettingsPage.qml" line="124"/>
         <source>About</source>
-        <translation type="unfinished"></translation>
+        <translation>Rakenduse teave</translation>
     </message>
     <message>
         <location filename="../qml/pages/SettingsPage.qml" line="135"/>
         <source>Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Seadistused</translation>
     </message>
     <message>
         <location filename="../qml/pages/SettingsPage.qml" line="139"/>
         <source>Daemon</source>
-        <translation type="unfinished"></translation>
+        <translation>Taustateenus</translation>
     </message>
     <message>
         <location filename="../qml/pages/SettingsPage.qml" line="143"/>
         <source>Allow background collection</source>
-        <translation type="unfinished"></translation>
+        <translation>Luba andmete kogumine taustal</translation>
     </message>
     <message>
         <location filename="../qml/pages/SettingsPage.qml" line="145"/>
         <source>Keeps the collector daemon running after Stumblefish closes</source>
-        <translation type="unfinished"></translation>
+        <translation>Andmete kogumise taustateenus jääb tööle ka Stumblefishi sulgemisel</translation>
     </message>
     <message>
         <location filename="../qml/pages/SettingsPage.qml" line="146"/>
         <source>Stops the collector daemon when Stumblefish closes</source>
-        <translation type="unfinished"></translation>
+        <translation>Andmete kogumise taustateenus ei jää tööle Stumblefishi sulgemisel</translation>
     </message>
     <message>
         <location filename="../qml/pages/SettingsPage.qml" line="152"/>
         <source>Status notifications</source>
-        <translation type="unfinished"></translation>
+        <translation>Olekuteated</translation>
     </message>
     <message>
         <location filename="../qml/pages/SettingsPage.qml" line="154"/>
@@ -355,37 +355,37 @@
     <message>
         <location filename="../qml/pages/SettingsPage.qml" line="283"/>
         <source>Storage</source>
-        <translation type="unfinished"></translation>
+        <translation>Andmeruum</translation>
     </message>
     <message>
         <location filename="../qml/pages/SettingsPage.qml" line="288"/>
         <source>Delete reports older than</source>
-        <translation type="unfinished"></translation>
+        <translation>Kustuta aruanded, mis on vanemad, kui</translation>
     </message>
     <message>
         <location filename="../qml/pages/SettingsPage.qml" line="294"/>
         <source>30 days</source>
-        <translation type="unfinished"></translation>
+        <translation>30 päeva</translation>
     </message>
     <message>
         <location filename="../qml/pages/SettingsPage.qml" line="298"/>
         <source>60 days</source>
-        <translation type="unfinished"></translation>
+        <translation>60 päeva</translation>
     </message>
     <message>
         <location filename="../qml/pages/SettingsPage.qml" line="302"/>
         <source>180 days</source>
-        <translation type="unfinished"></translation>
+        <translation>180 päeva</translation>
     </message>
     <message>
         <location filename="../qml/pages/SettingsPage.qml" line="306"/>
         <source>Never</source>
-        <translation type="unfinished"></translation>
+        <translation>Mitte kunagi</translation>
     </message>
     <message>
         <location filename="../qml/pages/SettingsPage.qml" line="314"/>
         <source>Prune old reports now</source>
-        <translation type="unfinished"></translation>
+        <translation>Kustuta vanad aruanded kohe nüüd</translation>
     </message>
 </context>
 </TS>
